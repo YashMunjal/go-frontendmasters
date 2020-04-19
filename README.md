@@ -1,2 +1,2 @@
 # go-frontendmasters
-Go fundamentals learnt from Frontend Masters
+Go basics learnt from Frontend Masters
